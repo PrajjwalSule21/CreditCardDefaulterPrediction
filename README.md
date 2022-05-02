@@ -45,6 +45,9 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 
 ![2022-05-02 (3)](https://user-images.githubusercontent.com/81765165/166224808-f086ee51-035c-4be5-b42c-746261181189.png)
 
+## Demo
+
+https://ccdp-ml.herokuapp.com/
 
 ## Steps
 
@@ -59,10 +62,6 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 - Use `Logger` to log every activity.
 - `Notebook` which contains entire basic flow of project.
 - `app.py` make an Web-App and deploy the app on Heroku.
-
-## Demo
-
-https://ccdp-ml.herokuapp.com/
 
 
 ## Future Scope
