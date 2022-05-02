@@ -59,6 +59,7 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 - Use `Logger` to log every activity.
 - `Notebook` which contains entire basic flow of project.
 - `app.py` make an Web-App and deploy the app on Heroku.
+
 ## Demo
 
 https://ccdp-ml.herokuapp.com/
@@ -70,12 +71,6 @@ https://ccdp-ml.herokuapp.com/
 - Do more data crunching
 - Optimize app.py
 - Work on Front-End
-## How to use this on Local
-
-- Create virtual environment 
-- intall requiremnets.txt
-- run app.py
-
 
 ## Author
 
