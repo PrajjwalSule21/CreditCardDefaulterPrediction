@@ -1,0 +1,20 @@
+2022-04-21	12:32:01	INFO	Splitting the data into X and y
+2022-04-21	12:32:06	INFO	Variable X contains all the Features
+2022-04-21	12:32:06	INFO	Variable y contains the Label
+2022-04-21	12:32:06	INFO	splitting of Features and Label has been done
+2022-04-21	12:32:06	INFO	Splitting the data into X and y
+2022-04-21	12:32:10	INFO	Variable X contains all the Features
+2022-04-21	12:32:10	INFO	Variable y contains the Label
+2022-04-21	12:32:10	INFO	splitting of Features and Label has been done
+2022-04-21	12:32:11	INFO	Splitting the data into X and y
+2022-04-21	12:32:15	INFO	Variable X contains all the Features
+2022-04-21	12:32:15	INFO	Variable y contains the Label
+2022-04-21	12:32:15	INFO	splitting of Features and Label has been done
+2022-04-21	12:32:15	INFO	Splitting the data into X and y
+2022-04-21	12:32:19	INFO	Variable X contains all the Features
+2022-04-21	12:32:19	INFO	Variable y contains the Label
+2022-04-21	12:32:19	INFO	splitting of Features and Label has been done
+2022-04-21	12:32:25	INFO	Splitting the data into X and y
+2022-04-21	12:32:30	INFO	Variable X contains all the Features
+2022-04-21	12:32:30	INFO	Variable y contains the Label
+2022-04-21	12:32:30	INFO	splitting of Features and Label has been done

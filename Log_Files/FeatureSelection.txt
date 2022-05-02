@@ -1,0 +1,55 @@
+2022-04-21	12:32:01	INFO	Finding features importance
+2022-04-21	12:32:02	INFO	Make the object of ExtraTreesClassifier() for getting the importance features
+2022-04-21	12:32:02	INFO	Making the TOTAL_BILL_PAY from all 6 month BILL_AMT features
+2022-04-21	12:32:02	INFO	Making the TOTAL_PAY_AMT from all 6 month PAY_AMT features
+2022-04-21	12:32:02	INFO	Droping the individual BILL_AMT and PAY_AMT features from dataframe
+2022-04-21	12:32:02	INFO	Selecting the X and y for ExtraTreesClassifier() model
+2022-04-21	12:32:02	INFO	Fitting the model on X and y
+2022-04-21	12:32:06	INFO	The important feature are:[0.13069778 0.0130519  0.04679615 0.02742913 0.14826496 0.11069158
+ 0.04786389 0.03870819 0.03725889 0.03622974 0.03975495 0.16416795
+ 0.15908491]
+2022-04-21	12:32:06	INFO	Selecting the Important featues and make a dataframe of those featues
+2022-04-21	12:32:06	INFO	Finding features importance
+2022-04-21	12:32:07	INFO	Make the object of ExtraTreesClassifier() for getting the importance features
+2022-04-21	12:32:07	INFO	Making the TOTAL_BILL_PAY from all 6 month BILL_AMT features
+2022-04-21	12:32:07	INFO	Making the TOTAL_PAY_AMT from all 6 month PAY_AMT features
+2022-04-21	12:32:07	INFO	Droping the individual BILL_AMT and PAY_AMT features from dataframe
+2022-04-21	12:32:07	INFO	Selecting the X and y for ExtraTreesClassifier() model
+2022-04-21	12:32:07	INFO	Fitting the model on X and y
+2022-04-21	12:32:10	INFO	The important feature are:[0.13006588 0.01254482 0.04788546 0.02711868 0.14637044 0.10906646
+ 0.05325921 0.03898228 0.03820782 0.03484723 0.0382316  0.1647042
+ 0.15871592]
+2022-04-21	12:32:10	INFO	Selecting the Important featues and make a dataframe of those featues
+2022-04-21	12:32:11	INFO	Finding features importance
+2022-04-21	12:32:12	INFO	Make the object of ExtraTreesClassifier() for getting the importance features
+2022-04-21	12:32:12	INFO	Making the TOTAL_BILL_PAY from all 6 month BILL_AMT features
+2022-04-21	12:32:12	INFO	Making the TOTAL_PAY_AMT from all 6 month PAY_AMT features
+2022-04-21	12:32:12	INFO	Droping the individual BILL_AMT and PAY_AMT features from dataframe
+2022-04-21	12:32:12	INFO	Selecting the X and y for ExtraTreesClassifier() model
+2022-04-21	12:32:12	INFO	Fitting the model on X and y
+2022-04-21	12:32:15	INFO	The important feature are:[0.12923992 0.01298857 0.04699092 0.02653746 0.14781365 0.10786883
+ 0.05442705 0.04020826 0.03495839 0.04028484 0.0370317  0.16334792
+ 0.1583025 ]
+2022-04-21	12:32:15	INFO	Selecting the Important featues and make a dataframe of those featues
+2022-04-21	12:32:15	INFO	Finding features importance
+2022-04-21	12:32:16	INFO	Make the object of ExtraTreesClassifier() for getting the importance features
+2022-04-21	12:32:16	INFO	Making the TOTAL_BILL_PAY from all 6 month BILL_AMT features
+2022-04-21	12:32:16	INFO	Making the TOTAL_PAY_AMT from all 6 month PAY_AMT features
+2022-04-21	12:32:16	INFO	Droping the individual BILL_AMT and PAY_AMT features from dataframe
+2022-04-21	12:32:16	INFO	Selecting the X and y for ExtraTreesClassifier() model
+2022-04-21	12:32:16	INFO	Fitting the model on X and y
+2022-04-21	12:32:19	INFO	The important feature are:[0.12943399 0.01304314 0.04692324 0.0278614  0.14774141 0.11162262
+ 0.05127412 0.03798041 0.03595362 0.03896811 0.03610438 0.16356113
+ 0.15953244]
+2022-04-21	12:32:19	INFO	Selecting the Important featues and make a dataframe of those featues
+2022-04-21	12:32:25	INFO	Finding features importance
+2022-04-21	12:32:27	INFO	Make the object of ExtraTreesClassifier() for getting the importance features
+2022-04-21	12:32:27	INFO	Making the TOTAL_BILL_PAY from all 6 month BILL_AMT features
+2022-04-21	12:32:27	INFO	Making the TOTAL_PAY_AMT from all 6 month PAY_AMT features
+2022-04-21	12:32:27	INFO	Droping the individual BILL_AMT and PAY_AMT features from dataframe
+2022-04-21	12:32:27	INFO	Selecting the X and y for ExtraTreesClassifier() model
+2022-04-21	12:32:27	INFO	Fitting the model on X and y
+2022-04-21	12:32:30	INFO	The important feature are:[0.12911317 0.01374271 0.04624179 0.02789504 0.14738681 0.10607363
+ 0.05249087 0.04259728 0.03407733 0.03840656 0.03838372 0.16396258
+ 0.15962851]
+2022-04-21	12:32:30	INFO	Selecting the Important featues and make a dataframe of those featues

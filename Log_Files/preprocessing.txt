@@ -1,0 +1,30 @@
+2022-04-21	12:32:01	INFO	Removing Duplicates from Dataframe
+2022-04-21	12:32:01	INFO	Finding features with missing values
+2022-04-21	12:32:02	INFO	The missing numerical features are: []
+2022-04-21	12:32:02	INFO	The missing categorical features are: []
+2022-04-21	12:32:02	INFO	Missing values imputaion is done
+2022-04-21	12:32:02	INFO	Duplicate values have been dropped
+2022-04-21	12:32:06	INFO	Removing Duplicates from Dataframe
+2022-04-21	12:32:06	INFO	Finding features with missing values
+2022-04-21	12:32:07	INFO	The missing numerical features are: []
+2022-04-21	12:32:07	INFO	The missing categorical features are: []
+2022-04-21	12:32:07	INFO	Missing values imputaion is done
+2022-04-21	12:32:07	INFO	Duplicate values have been dropped
+2022-04-21	12:32:11	INFO	Removing Duplicates from Dataframe
+2022-04-21	12:32:11	INFO	Finding features with missing values
+2022-04-21	12:32:11	INFO	The missing numerical features are: []
+2022-04-21	12:32:11	INFO	The missing categorical features are: []
+2022-04-21	12:32:12	INFO	Missing values imputaion is done
+2022-04-21	12:32:12	INFO	Duplicate values have been dropped
+2022-04-21	12:32:15	INFO	Removing Duplicates from Dataframe
+2022-04-21	12:32:15	INFO	Finding features with missing values
+2022-04-21	12:32:16	INFO	The missing numerical features are: []
+2022-04-21	12:32:16	INFO	The missing categorical features are: []
+2022-04-21	12:32:16	INFO	Missing values imputaion is done
+2022-04-21	12:32:16	INFO	Duplicate values have been dropped
+2022-04-21	12:32:25	INFO	Removing Duplicates from Dataframe
+2022-04-21	12:32:25	INFO	Finding features with missing values
+2022-04-21	12:32:26	INFO	The missing numerical features are: []
+2022-04-21	12:32:26	INFO	The missing categorical features are: []
+2022-04-21	12:32:26	INFO	Missing values imputaion is done
+2022-04-21	12:32:27	INFO	Duplicate values have been dropped

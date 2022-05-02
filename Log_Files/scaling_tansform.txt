@@ -1,0 +1,30 @@
+2022-04-21	12:32:01	INFO	Start scaling the data
+2022-04-21	12:32:01	INFO	Start of splitting the data into Train and Test data
+2022-04-21	12:32:06	INFO	Training and Test data split completed
+2022-04-21	12:32:06	INFO	Scaling the data with help of StandardScaler
+2022-04-21	12:32:06	INFO	Data Scaling completed
+2022-04-21	12:32:06	INFO	Scaling model saved in the folder
+2022-04-21	12:32:06	INFO	Start scaling the data
+2022-04-21	12:32:06	INFO	Start of splitting the data into Train and Test data
+2022-04-21	12:32:10	INFO	Training and Test data split completed
+2022-04-21	12:32:10	INFO	Scaling the data with help of StandardScaler
+2022-04-21	12:32:10	INFO	Data Scaling completed
+2022-04-21	12:32:10	INFO	Scaling model saved in the folder
+2022-04-21	12:32:11	INFO	Start scaling the data
+2022-04-21	12:32:11	INFO	Start of splitting the data into Train and Test data
+2022-04-21	12:32:15	INFO	Training and Test data split completed
+2022-04-21	12:32:15	INFO	Scaling the data with help of StandardScaler
+2022-04-21	12:32:15	INFO	Data Scaling completed
+2022-04-21	12:32:15	INFO	Scaling model saved in the folder
+2022-04-21	12:32:15	INFO	Start scaling the data
+2022-04-21	12:32:15	INFO	Start of splitting the data into Train and Test data
+2022-04-21	12:32:19	INFO	Training and Test data split completed
+2022-04-21	12:32:19	INFO	Scaling the data with help of StandardScaler
+2022-04-21	12:32:19	INFO	Data Scaling completed
+2022-04-21	12:32:19	INFO	Scaling model saved in the folder
+2022-04-21	12:32:25	INFO	Start scaling the data
+2022-04-21	12:32:25	INFO	Start of splitting the data into Train and Test data
+2022-04-21	12:32:30	INFO	Training and Test data split completed
+2022-04-21	12:32:30	INFO	Scaling the data with help of StandardScaler
+2022-04-21	12:32:30	INFO	Data Scaling completed
+2022-04-21	12:32:30	INFO	Scaling model saved in the folder

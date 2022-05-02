@@ -1,0 +1,21 @@
+2022-04-21	12:32:06	INFO	Entered into Base line model Logistic Regression
+2022-04-21	12:32:10	INFO	Make the model of Logistic Regression
+2022-04-21	12:32:10	INFO	Save the Logistic Regression on Base ModelBuilding directory
+2022-04-21	12:32:11	INFO	Find out the AccuracyScore, ConfussionMatric and ClasssificationReport of Logistic Regression
+2022-04-21	12:32:11	INFO	Save AccuracyScore, ConfussionMatrix and CalssificationReport in txt file
+2022-04-21	12:32:11	INFO	Enter get_best_model method in ModelBuilder class 
+2022-04-21	12:32:15	INFO	Entered into best_params for xg boost class
+2022-04-21	12:32:24	INFO	Xg_boost modelling has started
+2022-04-21	12:32:25	INFO	Best xg_boost parameters are :{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100}
+2022-04-21	12:32:25	INFO	XGboost modelling has been completed
+2022-04-21	12:32:25	INFO	Roc_Auc score is 0.6350975278720209
+2022-04-21	12:32:25	INFO	Entered into best_params_class for random_forest classifier
+2022-04-21	12:32:58	INFO	Grid_Search cv is performed 
+2022-04-21	12:32:58	INFO	Random forest modelling fitting has started
+2022-04-21	12:33:06	INFO	Best random forest parameters are {'criterion': 'gini', 'max_depth': 890, 'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 200}
+2022-04-21	12:33:06	INFO	Random Forest Modelling completed
+2022-04-21	12:33:07	INFO	Auc and Roc score of Random forest is 0.6503883522680595
+2022-04-21	12:33:07	INFO	Selection of best model 
+2022-04-21	12:33:07	INFO	Best model selection is done
+2022-04-21	12:33:07	INFO	Saving model as pickle file
+2022-04-21	12:33:08	INFO	Best model saved in file ,Best model is:Random_forest
