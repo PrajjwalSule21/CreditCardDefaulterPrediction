@@ -41,9 +41,9 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 
 
 ## Screenshots
-(![2022-05-02 (2)](https://user-images.githubusercontent.com/81765165/166224932-e1877621-77d9-4433-80f0-84477c260886.png)
+![2022-05-02 (2)](https://user-images.githubusercontent.com/81765165/166224932-e1877621-77d9-4433-80f0-84477c260886.png)
 
-(![2022-05-02 (3)](https://user-images.githubusercontent.com/81765165/166224808-f086ee51-035c-4be5-b42c-746261181189.png)
+![2022-05-02 (3)](https://user-images.githubusercontent.com/81765165/166224808-f086ee51-035c-4be5-b42c-746261181189.png)
 
 
 ## Steps
@@ -61,7 +61,7 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 - `app.py` make an Web-App and deploy the app on Heroku.
 ## Demo
 
-Insert gif or link to demo
+https://ccdp-ml.herokuapp.com/
 
 
 ## Future Scope
