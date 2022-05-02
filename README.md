@@ -42,7 +42,7 @@ Use Machine Learning to make this solution as well with the help of Data Analysi
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![CCDP-App](![2022-05-02 (3)](https://user-images.githubusercontent.com/81765165/166224808-f086ee51-035c-4be5-b42c-746261181189.png))
 
 
 ## Steps
